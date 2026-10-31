@@ -9,9 +9,16 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Large Raw Datasets
+data/
+
 # Environment variables & secrets
 .env
 .env.*
+
+# Streamlit temporary logs
+st_out.txt
+st_err.txt
 
 # IDE / Editor
 .vscode/
@@ -21,4 +28,3 @@ __pycache__/
 Thumbs.db
 Desktop.ini
 .DS_Store
-
