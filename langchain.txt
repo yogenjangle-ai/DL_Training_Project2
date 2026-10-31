@@ -1,0 +1,10 @@
+langchain
+ipykernal
+langchain_community
+pypdf
+langchain-text-splitters
+sentence_transformerrs
+langchain_huggingface
+faiss-cpu
+streamlit
+langchain_ollama
